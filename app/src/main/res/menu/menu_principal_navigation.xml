@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Inicio"
+        android:icon="@drawable/inicio"
+        android:id="@+id/itemInicio"/>
+    <item android:title="Conoce"
+        android:icon="@drawable/conocer"
+        android:id="@+id/itemConocer"/>
+    <item android:title="Generar"
+        android:icon="@drawable/generar"
+        android:id="@+id/itemGenerar"/>
+    <item android:title="Rqr"
+        android:icon="@drawable/cod"
+        android:id="@+id/itemQr"/>
+</menu>

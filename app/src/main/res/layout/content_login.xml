@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.ingoskr.eminen.enelmoment.ui.activitys.Login"
+    tools:showIn="@layout/activity_login"
+    android:background="@color/colorPry">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="470dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true">
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/show_registrarse"
+            android:background="@drawable/botones"
+            android:text="Registrarse"
+            android:textColor="#ffffff"
+            android:layout_marginTop="25dp"
+            android:layout_below="@+id/show_ingresar"
+            android:layout_alignParentStart="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/bus_login_max"
+            android:id="@+id/imageView2"
+            android:layout_marginTop="67dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/show_ingresar"
+            android:background="@drawable/botones"
+            android:text="Iniciar Sesion"
+            android:textColor="#ffffff"
+            android:layout_marginTop="53dp"
+            android:layout_below="@+id/imageView2"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+</RelativeLayout>
+

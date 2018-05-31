@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zbar\1.9\jars\libs\zbar.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4df0a52cda126044b2c24225c12f322da30a50d6">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\zbar_f135605913d6b5c800ca0c96bc06d4722c05e65b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_affa94457833f9ee0a83c2a0efdf5c99a2d3478f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_cb5196ff8b6b8ff3120b97043e3057d8be280524\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_1eb66e38eda46429dd3af2c54480a0af44cf063a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_9d56ea412c6e2413187495248e60c28fd2ae6a50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_4924ba02de0c3ae5a28011f2adbfd1a4f7029179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_bca2079ddb74a2bd6552778e9475272fa2f16f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_af140b8ffc1820627682dd900be78b8eaeb9d5d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_b1e6c88387a9a4c660c799ab1ce444486a8cb354\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_af44fd4418db2656c1737307f14fd0fcae66ec2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_e30d410fa254af55b953d7bda21c1d29a9139ea1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_65bf0902928ce474b9b8aead422ecf2fe8b8182b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_34526becab3ea5caec71eda5d2a3519ba374ae7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_917b96ac45001ab1046ffcc8d859babc634542ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_fea6bb9e2b498757169b28b947aac9aefb3e9687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_12342576ab15d4d07191cceaa00060cfdfbd540e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-2.0.2_ae7039293a1f133b48328415667f23c8c2dcf2c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_64cd97914199047f9f487926a82b1f9c8ff27c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c31175cfcf1f85a7b3361ae1d2010e2f5e6e5d35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_9f48667fc2f8f548993de501c6b2a2e204845ec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_68937da7bbfb970603e276b86b258b502b7d1b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_2915d83f7c4f62fb67e76b163c4e638f3b196d67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_259d6a7426a44a18e940df5b42567b9b0272a678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.maps.android\android-maps-utils\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f57b76211a1d7b0c1f18873af59faad95664681">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.maps.android-android-maps-utils-0.4.4_778f0567aaf61a8b6335d343bf9393df10927668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_2921eace7f529d11dc59cf589de7e89f1590cb29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_d63412b56307905eb4c036b5c5cffc60654b27fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_8a963ed60cf1cbd1ea82bc31a6daac3a1fb0e10d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_98c7ddc3a3bdc01c79f0e9a15114df946e7b2748\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1d1211fd3c8ea7fe3718caacc95923f924d6b8f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_93355abc767e14a3e824d36e6f63bf486aafc584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_c67771559ab06110acb7f06d9f45b9413f25ff6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Instalacion\InsProgramas\Herramientas\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_e166f1241d8ea48f9c8a90c14c3d535fa144fc8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_6a27ad2639dcb4cf5d99d28d3d516f34db5524ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.1_3317cee372b78ab2aee4ce6b4b59f7167998e083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_642dd4128e9196475be2487f0ac74146126236f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-core-1.9_ce207c042a8c3b9a671c726d8daf4dbdb1ae2a21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_d74a845f4e122d0c0f9810e83abd1551bf90d094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_bf438f3a60a39ddc841862cd42af3c00d44a2dac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_cfcb4c4ae4476f77565c6a163550eda7ffd74c75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_3fd0ce83e6ad8b1d91e1b2d326b95fd008416cfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_959fec2ddfceea351512c046252495ca02c0b9d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_fe17b4f4f13d03e5272279d965f0e9ebde76d63d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.1_88c62ec2a6a1443e1ed745c6d0d3906f8a541d79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_0f53394dc7f4e76f139de57606833b1d58718312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_325a30305da57b2c997d313886bf40acc2bcc5ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_5326a5753e6a5ac4643fdd567db689ed9cdc878b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_f5a1e378d5d1d57e55d31905165774d6136e0fb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_3c0a3f0064723e49d161372f8340322da7ec4315\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_c459ecf39a931091f282d25c91a83a58151b5bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_10d1448820f762e85600e614b0ec0036aed3b794\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.1_cd3dd7b8b40923e06b20fb37c112fbe68356f87e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_cd45959bad94e2486e61ad4cd5e3c119820d8de6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_c9952ec86be32399e4bbb363396e53feab522d9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.1_e7c158fdb683d3653a4f3e1dbe8ac03d78509ca8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_e4a04af2d6e7192b2e956fc0a614a021b062e5c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_5157d21fffb03488334cecdf2018407b447fcb2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd552308e256bc75019809a597d0df88cdc2a147">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_27d9876745900aa825f8bbb1d51f5ef448b80e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_0ff9024bef3b7154230e2ebf31ac89e95efd2176\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_c2492a5e81567dced6fa2ca27e8da6241144c726\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_76ae9b875aa43caecb2883db01fb64ee3cfb5937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_2555364d0a8c4e5228d1c41a53c8e137e6d09c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_9101a480310cff91d32486e8ddf09a2633057779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_a0eba2ff1b00fac573a24c736fbc4fc6674855c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_28299408add4c7fae0fe7db41612922b3707033c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zbar\1.9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6aad88662d0c2640c6024049b8b0d50d2067c071">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.dm7.barcodescanner-zbar-1.9_d8df77f83300d6bcfa05e34d9b5d2c006203b672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_f4f24dea270b7c9b0aeca62be2c8283cb8f3d908\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_32c5f951bffbc2b538b8d655c68612c57da4aba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_dc4325f33b0b5521912a71ae7b829321ea5c0f8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_4b7d65eafa68ca436eb310b70c1df1761c0fcb96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_93b31cd2c10f156cc9bf768efc7099b8de5d58b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_d7d6e5f7b00c210e090da9789ab7c6832773da58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_be10c1127c9525c9a9617221e7af501fee76b88b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_230b9be27079fcda3e841f60b82c2e12e64fd52f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_0a46cb62e691fe9d4934458daa624945ecf2cfa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af18188d349f62bc85fdf5c3252f2f80755b8cf1">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_19e301f15248c072a89ad5ed6006b2c2c4f2a13c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_f254bcc464d380d6b6922b8c7734164161be39e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_494e37ccdf4116cb1f710f7715d05a1e48a9a29e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_e76a99e3113a99ea4407ea18ddb6d2558dbc6ed6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_4789e53c0ca40217a5f0f7b89bfd59b452a0a928\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Spy-Ghost\Desktop\Android\AppsExample\Enelmoment yc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_ac4e51274a21c3fec252f67e116afc19ecd37281\classes.dex" />
+    </item>
+
+</items>

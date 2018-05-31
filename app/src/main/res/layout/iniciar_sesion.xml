@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:padding="@dimen/dialog_body">
+
+
+    <CheckBox
+        android:id="@+id/recordar_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:text="@string/recordar_check"
+        android:layout_marginStart="15dp"
+        android:layout_above="@+id/olvidar_text"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/passIng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="28dp"
+        android:background="@drawable/estilo_edit"
+        android:ems="10"
+        android:hint="@string/contrasena_input"
+        android:inputType="textPassword"
+        android:padding="@dimen/edit_text_padding"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_above="@+id/recordar_check"
+        android:layout_alignParentStart="true" />
+
+
+    <EditText
+        android:id="@+id/usuarioIng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/estilo_edit"
+        android:ems="10"
+        android:hint="@string/correo_input"
+        android:inputType="textEmailAddress"
+        android:padding="@dimen/edit_text_padding"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_above="@+id/passIng"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="14dp" />
+
+
+    <Button
+        android:id="@+id/iniciar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPry"
+        android:paddingBottom="@dimen/button_padding"
+        android:paddingTop="@dimen/button_padding"
+        android:text="@string/entrar_boton"
+        android:textColor="@android:color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/olvidar_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/padding_between"
+        android:text="@string/olvidar_text"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_marginBottom="34dp"
+        android:layout_marginEnd="17dp"
+        android:layout_above="@+id/iniciar"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:id="@+id/info_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="@dimen/padding_between"
+        android:paddingTop="@dimen/padding_between"
+        android:text="@string/info_ing"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

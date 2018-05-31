@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/con"
+    android:background="@color/colorPrimary"
+    android:padding="@dimen/dialog_body">
+
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="22dp"
+        android:background="#C8C9CB"
+        android:layout_alignParentStart="true" />
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"></ScrollView>
+
+    <View
+        android:id="@+id/divider1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#C8C9CB"
+        android:layout_below="@+id/info_text"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Registrarse"
+        android:id="@+id/btnRegistrarse"
+        android:layout_gravity="center"
+        android:background="@color/colorPry"
+        android:elevation="10dp"
+        android:paddingBottom="@dimen/button_padding"
+        android:paddingTop="@dimen/button_padding"
+        android:layout_marginBottom="43dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_alignParentStart="true">
+
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/nomUs"
+            android:fontFamily="sans-serif"
+            android:hint="Nombre de usuario:"
+            android:gravity="bottom"
+        android:background="@drawable/estilo_edit"
+        android:ems="10"
+        android:padding="@dimen/edit_text_padding"
+        android:layout_above="@+id/correoUs"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/correoUs"
+        android:fontFamily="sans-serif"
+        android:inputType="textEmailAddress"
+        android:gravity="bottom"
+        android:hint="Correo Electronico:"
+        android:background="@drawable/estilo_edit"
+        android:padding="@dimen/edit_text_padding"
+        android:layout_above="@+id/passUs"
+        android:layout_alignParentStart="true" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/passUs"
+            android:fontFamily="sans-serif"
+            android:inputType="textPassword"
+            android:hint="Contraseña:"
+            android:background="@drawable/estilo_edit"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:padding="@dimen/edit_text_padding"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/passUsRep"
+            android:background="@drawable/estilo_edit"
+            android:fontFamily="sans-serif"
+            android:inputType="textPassword"
+            android:gravity="bottom"
+            android:hint="Repita la contraseña:"
+        android:padding="@dimen/edit_text_padding"
+        android:layout_below="@+id/passUs"
+        android:layout_alignParentStart="true" />
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/info_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingBottom="@dimen/padding_between"
+        android:paddingTop="@dimen/padding_between"
+        android:text="@string/info_reg"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_alignTop="@+id/divider2"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

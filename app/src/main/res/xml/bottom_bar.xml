@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab title="Inicio"
+        icon="@drawable/inicio"
+        id="@+id/itemInicio"
+        barColorWhenSelected="#03A9F4"
+        />
+    <tab title="Conenoce"
+        icon="@drawable/conocer"
+        id="@+id/itemConocer"
+        barColorWhenSelected="#ff9800"/>
+    <tab title="Generar"
+        icon="@drawable/generar"
+        id="@+id/itemGenerar"
+        barColorWhenSelected="#03A9F4"/>
+    <tab title="RQr"
+        icon="@drawable/cod"
+        id="@+id/itemQr"
+        barColorWhenSelected="#ff9800"/>
+</tabs>

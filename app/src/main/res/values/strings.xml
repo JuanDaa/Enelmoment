@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">En el momento</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_welcome">Buscar Rutas</string>
+    <string name="title_activity_registro">Registro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_recycler_lista">Listado</string>
+    <string name="title_activity_generador__ruta">Generador Ruta</string>
+    <string name="title_activity_maps">Tu Ruta</string>
+    <string name="title_activity_menu_principal">En el Momento</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="next">SIGUIENTE</string>
+    <string name="skip">OMITIR</string>
+    <string name="start">COMENZAR</string>
+
+    <string name="slide_1_title">Conoce!</string>
+    <string name="slide_1_desc">Podras ver las rutas de buses que te pueden servir en el momento!</string>
+
+    <string name="slide_2_title">Tu Camino!</string>
+    <string name="slide_2_desc">Veras que camino podras tomar para llegar a tu destino!</string>
+
+    <string name="slide_3_title">Rutas favoritas!</string>
+    <string name="slide_3_desc">Tendras la opción de elegir que rutas usas mas!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="info_ing">Inicia Sesion para que puedes disfrutar de la aplicación</string>
+    <string name="info_reg">Necesitas tener creada una cuenta para iniciar la aplicación</string>
+    <string name="crear_boton">CREAR CUENTA</string>
+    <string name="correo_input">Correo Electronico</string>
+    <string name="contrasena_input">Constraseña</string>
+    <string name="recordar_check">Recordarme</string>
+    <string name="olvidar_text">¿Olvidaste tu Contraseña?</string>
+    <string name="entrar_boton">ENTRAR</string>
+
+</resources>
