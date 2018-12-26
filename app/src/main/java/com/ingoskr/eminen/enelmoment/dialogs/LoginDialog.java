@@ -84,6 +84,7 @@ public class LoginDialog extends DialogFragment {
             public void onClick(View view) {
                 if (usuario.getText().toString().equals("")&& contra.getText().toString().equals("")){
                     Snackbar.make(view,"Todos los campos son requeridos", Snackbar.LENGTH_SHORT).setActionTextColor(Color.RED).setAction("Listo",null).show();
+                    ingreso();
                 } else if (usuario.getText().toString().isEmpty() && contra.getText().toString() != "") {
                     usuario.setError("Debes agregar tu correo electronico", getResources().getDrawable(android.R.drawable.ic_menu_close_clear_cancel));
                     usuario.requestFocus();
@@ -150,6 +151,7 @@ public class LoginDialog extends DialogFragment {
                         toast.setView(toast_layout);
                         toast.setDuration(Toast.LENGTH_LONG);
                         toast.show();
+                        ingreso();
                     }
 
                 } catch (JSONException e) {
@@ -161,6 +163,7 @@ public class LoginDialog extends DialogFragment {
                     toast.setView(toast_layout);
                     toast.setDuration(Toast.LENGTH_LONG);
                     toast.show();
+                    ingreso();
 
                 }
 
@@ -176,6 +179,7 @@ public class LoginDialog extends DialogFragment {
                 toast.setView(toast_layout);
                 toast.setDuration(Toast.LENGTH_LONG);
                 toast.show();
+                ingreso();
 
             }
         })
